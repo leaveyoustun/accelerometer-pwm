@@ -14,8 +14,7 @@ It captures motion data from an **MPU‑6050 IMU**, fuses the readings with a li
 
 ## Highlights
 - **FreeRTOS‑based multitasking** for deterministic behaviour
-- **Sensor fusion** with a single‑precision Kalman filter
-- **Zero‑copy task notifications** instead of queues for ISR ↔ task messaging
+- **Sensor data** with a single‑precision Kalman filter
 - **PWM updates** on four independent channels
 - **User feedback** on both LCD and serial console
 

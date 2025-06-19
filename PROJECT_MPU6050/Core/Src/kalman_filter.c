@@ -1,11 +1,3 @@
-/*
- * kalman_filter.c
- *
- *  Created on: Jul 12, 2024
- *      Author: Admin
- */
-
-
 #include <stdio.h>
 #include <math.h>
 

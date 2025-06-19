@@ -1,9 +1,3 @@
-/*
- * kalman_filter.h
- *
- *  Created on: Jul 12, 2024
- *      Author: Admin
- */
 #ifndef KALMAN_FILTER_H
 #define KALMAN_FILTER_H
 

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cstdint": "c",
+        "mpu6050.h": "c",
+        "main.h": "c",
+        "compare": "c"
+    }
+}

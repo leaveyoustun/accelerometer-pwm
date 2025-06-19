@@ -1,0 +1,7 @@
+/Users/liviu/Library/Mobile Documents/com~apple~CloudDocs/Personal/Embedded-C/My_workspace/target/PROJECT_MPU6050/build/Debug/CMakeFiles/PROJECT_MPU6050.dir
+/Users/liviu/Library/Mobile Documents/com~apple~CloudDocs/Personal/Embedded-C/My_workspace/target/PROJECT_MPU6050/build/Debug/CMakeFiles/edit_cache.dir
+/Users/liviu/Library/Mobile Documents/com~apple~CloudDocs/Personal/Embedded-C/My_workspace/target/PROJECT_MPU6050/build/Debug/CMakeFiles/rebuild_cache.dir
+/Users/liviu/Library/Mobile Documents/com~apple~CloudDocs/Personal/Embedded-C/My_workspace/target/PROJECT_MPU6050/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/Users/liviu/Library/Mobile Documents/com~apple~CloudDocs/Personal/Embedded-C/My_workspace/target/PROJECT_MPU6050/build/Debug/cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir
+/Users/liviu/Library/Mobile Documents/com~apple~CloudDocs/Personal/Embedded-C/My_workspace/target/PROJECT_MPU6050/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/Users/liviu/Library/Mobile Documents/com~apple~CloudDocs/Personal/Embedded-C/My_workspace/target/PROJECT_MPU6050/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
